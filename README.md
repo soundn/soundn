@@ -1,5 +1,5 @@
 # 💫 About Me:
-•	I’m currently working on: Advanced Kubernetes orchestration, CI/CD pipeline optimization, and multi-cloud DevOps infrastructure using tools like Terraform, Jenkins, and GitLab CI/CD.<br>	•	I’m looking to collaborate on: Kubernetes-based microservices architecture, multi-cloud solutions, and CI/CD pipeline integration.<br>	•	I’m looking for help with: Enhancing cloud security measures, particularly around secrets management and API authentication.<br>	•	I’m currently learning: Advanced Kubernetes, focusing on scaling, security, and monitoring in a cloud-native environment.<br>	•	Ask me about: Kubernetes, Docker, CI/CD, Terraform, cloud platforms (AWS, Azure, GCP), and DevOps best practices.<br>	•	Fun fact: I co-authored a book chapter on Sinkhole Attack Classification and enjoy using my cybersecurity background to improve cloud infrastructure resiliency
+•	I’m currently working on Advanced Kubernetes orchestration, CI/CD pipeline optimization, and multi-cloud DevOps infrastructure using tools like Terraform, Jenkins, and GitLab CI/CD.<br>	•	I’m looking to collaborate on Kubernetes-based microservices architecture, multi-cloud solutions, and CI/CD pipeline integration.<br>	•	I’m looking for help with Enhancing cloud security measures, particularly around secrets management and API authentication.<br>	•	I’m currently learning Advanced Kubernetes, focusing on scaling, security, and monitoring in a cloud-native environment.<br>	•	Ask me about Kubernetes, Docker, CI/CD, Terraform, cloud platforms (AWS, Azure, GCP), and DevOps best practices.<br>	•	Fun fact: I co-authored a book chapter on Sinkhole Attack Classification and enjoy using my cybersecurity background to improve cloud infrastructure resiliency
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=soundn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soundn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=soundn&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
